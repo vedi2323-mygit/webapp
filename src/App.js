@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Happy maha shivratri!!! may the blessings of lord reach you and our wish comes true..May lord shiva bless you with grace and good healthy and wealthy life..Hope in yourself vediii
+          believe in yourself...Hope in yourself vedi..we are coming again 
         </p>
         <a
           className="App-link"
