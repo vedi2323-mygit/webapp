@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          believe in yourself...Hope in yourself vedi..we are coming again 
+          "Ohh lord shiva please help me from all distractions and let me succeed"
+          Fail Fast Learn Fast
         </p>
         <a
           className="App-link"
